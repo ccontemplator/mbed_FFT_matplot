@@ -1,7 +1,7 @@
 # exam_test
 
-read the button if b1 on then multiply cs by 2
-    ""          if b2         divide cs by 2
+read the button if b1 is on then multiply cs by 2
+read the button if b2 is on then divide cs by 2
     
 when pressing b3 then stop selecting cs and start to generate wave，slope area is 80ms*cs ,flat area is 240-80ms*cs*2(using a for loop to generate) 
 
