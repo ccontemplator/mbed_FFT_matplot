@@ -1,4 +1,4 @@
-# 
+#self note 
 
 read the button if b1 is on then multiply cs by 2, 
 read the button if b2 is on then divide cs by 2
